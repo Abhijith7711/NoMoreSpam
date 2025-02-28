@@ -12,7 +12,7 @@ st.title('Spam Detector')
 user_input = st.text_area("Enter the message to classify:")
 
 # Add a "Predict" button
-if st.button("Predict"):
+if st.button("Detect"):
     if user_input.strip():  # Ensure the text box is not empty
         # Convert the user's input into the same TF-IDF format as the training data
         user_input_tfidf = vectorizer.transform([user_input])
