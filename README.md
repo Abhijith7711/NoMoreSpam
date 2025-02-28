@@ -1,7 +1,7 @@
 # NoMoreSpam 🚫📧
 
-**NoMoreSpam** is a spam detection system that uses **Naive Bayes** and NLP techniques to classify email messages as **Spam** or **Not Spam**. It features a Streamlit web app for real-time predictions, powered by a trained model and TF-IDF vectorization. 
-
+**NoMoreSpam** is a spam detection system that uses **Naive Bayes** and NLP techniques to classify email messages as **Spam** or **Not Spam**. It features a Streamlit web app for real-time predictions, powered by a trained model and TF-IDF vectorization. <br/><br/>
+check your mail spam or not  [NoMoreSpam](https://nomorespam1.streamlit.app/)
 ## Features ✨
 
 - **Spam Detection**: Classify email messages as Spam or Not Spam. 📥✉️
